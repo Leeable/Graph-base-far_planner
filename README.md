@@ -11,3 +11,4 @@
   
   
   ### The matplotlib and networkx is needed to construct and visualize the graph and path
+![image](https://user-images.githubusercontent.com/65322941/164867637-b03d710f-0610-4981-ac46-8635688a2ead.png)
